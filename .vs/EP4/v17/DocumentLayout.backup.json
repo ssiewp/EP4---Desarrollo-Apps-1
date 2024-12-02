@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ANDRE\\source\\repos\\EP4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28AE9B59-1454-4FC4-9B38-C7B411C20819}|EP4\\EP4.csproj|c:\\users\\andre\\source\\repos\\ep4\\ep4\\proveedores.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{28AE9B59-1454-4FC4-9B38-C7B411C20819}|EP4\\EP4.csproj|solutionrelative:ep4\\proveedores.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AE9B59-1454-4FC4-9B38-C7B411C20819}|EP4\\EP4.csproj|C:\\Users\\ANDRE\\source\\repos\\EP4\\ep4\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{28AE9B59-1454-4FC4-9B38-C7B411C20819}|EP4\\EP4.csproj|solutionrelative:ep4\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Proveedores.aspx",
+              "DocumentMoniker": "C:\\Users\\ANDRE\\source\\repos\\EP4\\EP4\\Proveedores.aspx",
+              "RelativeDocumentMoniker": "EP4\\Proveedores.aspx",
+              "ToolTip": "C:\\Users\\ANDRE\\source\\repos\\EP4\\EP4\\Proveedores.aspx",
+              "RelativeToolTip": "EP4\\Proveedores.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-01T17:32:54.04Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\ANDRE\\source\\repos\\EP4\\EP4\\Site.Master",
+              "RelativeDocumentMoniker": "EP4\\Site.Master",
+              "ToolTip": "C:\\Users\\ANDRE\\source\\repos\\EP4\\EP4\\Site.Master",
+              "RelativeToolTip": "EP4\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-01T17:11:17.516Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
